@@ -1,0 +1,117 @@
+html, body, footer {
+    margin: 0;
+    padding: 0;
+    background-color: #6286c5;
+}
+
+header {
+    background-color: #393234;
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+}
+
+a  {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav {
+    margin: 0;
+    padding: 15px 0;
+    text-align: right;
+}
+
+nav li {
+    color: #fff;
+    font-family: 'Mavin Pro', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    display: inline-block;
+    width: 80px;
+    text-align: center;
+    
+}
+
+main {
+    text-align: center;
+    position: relative;
+    top: 80px;
+}
+
+
+}
+
+ main img {
+     position: center;
+     margin: 0 auto;
+}
+h4 { color: #333;
+    font-family: 'Mavin Pro', sans-serif;
+    font-weight: 200;
+    font-size: 40px;
+    margin-top: 30px;
+    padding-top: 80px;
+    margin-bottom: 10px;
+    position: relative;
+    background-color: #6286c5;
+
+}
+
+.container {
+    
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: center;
+}
+
+.hero {
+    height: 1000px;
+    width: 2000px;
+    background-image: url(../images/san_diego_sunset.jpg);
+    background-size: 100%;
+}
+
+#ethos {
+    background-color: #6286c5;
+    width: 2000px;
+    
+}
+
+#work {
+    background-color: #393234;
+    width: 2000px;
+}
+
+#experience {
+    background-color: #cda88b;
+    width: 2000px;
+}
+
+#about {
+    background-color: #393234;
+    width: 2000px;
+}
+
+img {
+    z-index: 2;
+    width: auto;
+    margin: 0 auto;
+    
+}
+
+footer  li {
+    color:#393234;
+    font-family: 'Mavin Pro', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    display: inline;
+    width: 80px;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+}
+
+footer a {
+    color: #393234;
+}
