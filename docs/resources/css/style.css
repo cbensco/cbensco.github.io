@@ -61,41 +61,46 @@ h4 { color: #333;
 .container {
     
     margin: 0 auto;
-    padding: 0 10px;
     text-align: center;
+    
 }
 
 .hero {
     height: 1000px;
-    width: 2000px;
+    
     background-image: url(../images/san_diego_sunset.jpg);
-    background-size: 100%;
+    background-size: 100%
+}
+
+img .logo {
+    height: 200px;
+    width: 200px;
 }
 
 #ethos {
     background-color: #6286c5;
-    width: 2000px;
+    
     
 }
 
 #work {
     background-color: #393234;
-    width: 2000px;
+    
 }
 
 #experience {
     background-color: #cda88b;
-    width: 2000px;
+    
 }
 
 #about {
     background-color: #393234;
-    width: 2000px;
+    
 }
 
 img {
     z-index: 2;
-    width: auto;
+    width: 100%;
     margin: 0 auto;
     
 }
@@ -108,7 +113,7 @@ footer  li {
     display: inline;
     width: 80px;
     text-align: center;
-    padding: 15px;
+    : 15px;
     position: relative;
 }
 
